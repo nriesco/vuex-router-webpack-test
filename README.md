@@ -1,1 +1,0 @@
-# vuex-router-webpack-test
